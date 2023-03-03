@@ -1,6 +1,6 @@
 {
     "require": {
-        "drupal/address": "1.10"
+        "drupal/address": "1.11.0"
     },
     "repositories": [
         { "type": "composer", "url": "https://packages.drupal.org/8" }
